@@ -1,2 +1,2 @@
 # python_codes
-This repository contain python codes that I have implemented 
+This repository contain python code for different practice problems
